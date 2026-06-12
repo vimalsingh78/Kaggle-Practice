@@ -1,4 +1,4 @@
-# Hero Agent - Kaggle Project
+# AI Agent - Kaggle Project
 
 An AI-powered agent project built with Google's Gemini API and Agent Development Kit (ADK). This project demonstrates how to create and interact with LLM agents using Python.
 
